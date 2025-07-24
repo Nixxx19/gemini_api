@@ -1,2 +1,2 @@
-# intern-project
-intern project
+streamlit 
+google.generativeai
